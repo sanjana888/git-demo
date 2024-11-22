@@ -1,0 +1,1 @@
+echo "Initial content in file3.java" > file3.java
